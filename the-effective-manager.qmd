@@ -1,0 +1,47 @@
+---
+title: "The Effective Manager"
+format: html
+editor: visual
+---
+
+## Chapter 1
+
+* Mission first, people always
+* Try to find out exactly what your responsibilities are
+* Two main objectives
+  * Get results
+  * Retain people (better than others)
+* Important to have relationships which help you understand the two objectives
+  * What metrics am I going to be judged on
+  * What are the average retention rates
+* I wonder how this introduction fits with e.g. Goodhart's law, Campbell's law
+  * What about helping to define the right metrics (perhaps at a large company this isn't isn't your responsibility, but at a small company or start-up it could be)
+
+## Chapter 2
+
+* An MBA probably won't teach you much about how to manage people
+* This book claims management is the same in a small or large company -- I remain to be convinced
+* Four PC explaining 75% of variance in results and retention are
+  1. Get to know your people
+  2. Communicate about performance
+  3. Ask for more
+  4. Push work down
+* Get to know your people
+  * Their strengths and weaknesses
+  * Often managers engage in typical mind fallacy: treat people as they would like to be treated, ignoring individual variation
+  * People are what deliver results, not systems or processes
+  * Acid test: do you know the names of their kids (might have to come up with something different if you're managing young people)
+  * The point is not to become friends with your directs
+  * Not like: *blah-blah-blah-I'm-getting-to-the-real-reason-I'm-here-to-talk-to-you-in-a-second-blah-blah-blah* (this seems like an easy mistake to make!)
+  * Take into account that there is a power differential
+  * You have to talk to them frequently about things that are important to them
+  * **The single most important thing you can do as a manager**
+* Communicate about performance
+  * To get better, you need feedback
+    * Got distracted here thinking about ["What is it you do to train that is comparable to a pianist practicing scales?"](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html)
+  * NFL: every single second of every single play (those who fight for every second with their coach are headed to the hall of fame, so they claim)
+    * Thinking about my own work: every single line of code, every single modelling choice, all aspects of a written document, presentation or talk
+  * Not only negative feedback!
+* Asking for more performance
+  * Managers are supposed to create stress for their directs
+    * Distress and eustress
