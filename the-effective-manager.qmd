@@ -45,3 +45,8 @@ editor: visual
 * Asking for more performance
   * Managers are supposed to create stress for their directs
     * Distress and eustress
+    * Always better to grow output by increasing capacity of current staff than bringing on new staff
+* Push work down
+  * Time of directs costs less than time of managers
+* How does this change in a remote work environment?
+  * It doesn't, but it does become **a lot** more difficult
