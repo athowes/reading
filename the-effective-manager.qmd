@@ -50,3 +50,24 @@ editor: visual
   * Time of directs costs less than time of managers
 * How does this change in a remote work environment?
   * It doesn't, but it does become **a lot** more difficult
+  
+## Chapter 3
+
+* What you do should be teachable
+  * This is something I've been thinking about more broadly: creating resources
+* Management is not a personality thing 
+  * Every effective person needs to be growing their skills and influencing more people [in the company]
+
+| Critical behaviour | Tool |
+|--------------------|------|
+| Get to know your people | One-on-ones |
+| Communicate about performance | Feedback |
+| Ask for more | Coaching |
+| Push down work | Delegation |
+
+## Chapter 4
+
+
+
+
+
