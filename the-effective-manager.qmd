@@ -93,3 +93,35 @@ editor: visual
 * It should be in an office, but it could be in a semi-public space
 
 ## Chapter 6
+
+* Pushback against O3s
+  1. Micromanaging
+  2. Don't have time
+  3. We talk all the time
+* Micromanaging
+  * Directs who don't want to be managed are a liability
+  * Asking for one meeting a week is not micromanaging (obviously)
+* Don't have time
+  * You can announced that O3s won't start for some number of weeks e.g. 3
+  * If someone is busy O3s are even more important to make sure priorities are right
+  * 30 minutes a week is `r 100 * 30 / (8 * 60 * 5)`% of the working week
+  * Does anyone seriously have this objection?
+  * Recommend avoiding using "role power" as much as you can
+    * Role power
+    * Relationship power
+    * Expertise power
+* We talk all the time
+  * Have an agenda
+    * Directs go first
+    * Start with the same first question
+      * How's it going?
+      * How are you?
+      * How are things?
+      * Your agenda?
+    * How to get directs to make the most of the O3? Have an agenda etc.
+    * 15, 15 agenda
+      * Directs usually talk for longer
+    * Don't be an agenda fascist
+    * Uncommunicative directs are more challenging than verbose directs
+    * Effectiveness of hand-written vs typed notes
+      * What about a Google doc? Research on this? TODO: find examples of O3 templates online
