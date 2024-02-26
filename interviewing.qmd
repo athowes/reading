@@ -1,0 +1,9 @@
+---
+title: "Running interviews"
+format: html
+editor: visual
+---
+
+## How I build and run behavioral interviews (Ben Kuhn)
+
+https://www.benkuhn.net/behavioral/
