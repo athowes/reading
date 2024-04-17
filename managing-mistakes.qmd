@@ -1,0 +1,9 @@
+---
+title: "Management mistakes"
+format: html
+---
+
+## Some mistakes I made as a new manager (Ben Kuhn)
+
+https://www.benkuhn.net/newmgr/
+
