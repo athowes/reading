@@ -3,7 +3,89 @@ title: "Management mistakes"
 format: html
 ---
 
-## Some mistakes I made as a new manager (Ben Kuhn)
+## [Some mistakes I made as a new manager (Ben Kuhn)](https://www.benkuhn.net/newmgr/)
 
-https://www.benkuhn.net/newmgr/
+1. There isn't a fast feedback loop (like there is with something like coding)
+2. Splitting attention (suggests only coding if it's non-critical)
+3. Over avoiding micromanaging. "Do you feel like you know how to do this?" -- this resonates for me as a report
+4. Procrastinating hard questions e.g. giving tough feedback or letting people go
+5.Deferring maintenance. You can't always be "busy". Slack by default
+
+## [Tech Lead Management roles are a trap](https://lethain.com/tech-lead-managers/)
+
+* Tech lead manager is harder than pure team management
+* Need to stay on top of managing people, while also contributing technically
+* How to have uninterupted blocks of time?
+* People attempting to do both often retreat to which ever they find easier or prefer
+  * e.g. tech lead managers forgetting to perform the management part
+* Can be a bit of a deadend
+  * Management leads to group management
+  * Technical leads to staff engineer
+  * Splitting time isn't ideal for either path -- perhaps this seems quite "tech job" specific?
+
+## [Engineering manager archetypes](https://lethain.com/engineering-manager-archetypes/)
+
+1. Tech lead manager: 2-5 people, provides technical direction
+2. Team manager: 4-10 people, partners with an individual contributor within the team who supplies technical direction. Can spend majority of time on people management
+3. Group manager: manages multiple team managers. Role depends heavily on quality of reporting chain
+4. Executive manager: responsible for whole organisation, reports to CEO
+
+## [Staff archetypes](https://staffeng.com/guides/staff-archetypes/)
+
+* Tech lead
+* Architect
+* Solver
+* Right hand
+
+## [Situational leadship theory](https://en.wikipedia.org/wiki/Situational_leadership_theory)
+
+* Leadership styles (S1-S4)
+  * S1: telling how to do it (high task, low relationship)
+  * S2: coaching and providing direction (high task, high relationship)
+  * S3: supporting (low task, high relationship)
+  * S4: delegating (low task, low relationship)
+* Maturity levels (M1-M4)
+  * M1: lack skills, lack confidence, unwilling
+  * M2: lack skills, lack confidence, willing
+  * M3: have skills, lack confidence, willing
+  * M4: have skills, have confidence, willing
+* Performance readiness
+  * R1: unable and insecure or unwilling
+  * R2: unable but confident and willing
+  * R3: able but insecure or unwilling
+  * R4: able and confident and willing
+
+## [Work on what matters](https://staffeng.com/guides/work-on-what-matters/)
+
+* Quote about energised over impactful from Michelle Bu
+* Pacing career to your life
+* Snacking
+  * Easy and low impact jobs
+  * Ok to spend some time on snacks to keep yourself motivated between bigger accomplishments, but keep yourself honest about how much time you spend on it
+* Preening
+  * High visability snacking that gets recognition
+  * Basically an issue of misallignment between what you consider impactful and what the company considers impactful
+* Chasing ghosts
+  * Driving a strategy shift that fundamentally misunderstands the challenges at hand
+
+## [A forty-year career](https://lethain.com/forty-year-career/)
+
+* Biggest barrier to a forty year career is burnout
+* Prevent burnout by working on something you find meaningful, and managing your pace
+* You don't have to take personal responsibility for every situation
+* How long does it take on a vacation or weekend until you stop feeling anxious?
+* People really matter, including when you've stopped working together
+* Prestige matters, but is quite manufacturable
+  * Makes everything more attainable: a universal lubricant
+* The best roles take a while to hire for, and so are only accessible if you're already financially stable
+  * Don't need to get rich, but do think about creating the flexibility for you and the people who depend on you
+* The engineer / manager pendulum (have now read)
+* Compounding gains: investing in yourself makes things easier
+  * Things that seem hard now will be easy in a decade
+
+## [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+
+* "This is an unstable combination, because your engineering skills and context-sharpness are decaying the longer you do it."
+* "Management is highly interruptive, and great engineering — where you’re learning things — requires blocking out interruptions."
+* "You’ll miss the dopamine hit of fixing something or solving something.  You’ll miss it desperately."
 

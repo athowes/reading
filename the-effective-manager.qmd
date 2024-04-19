@@ -1,127 +1,128 @@
 ---
 title: "The Effective Manager"
 format: html
-editor: visual
 ---
+
+Notes on the book ["The Effective Manager"](https://www.manager-tools.com/products/effective-manager-book-second-edition)
 
 ## Chapter 1
 
 * Mission first, people always
 * Try to find out exactly what your responsibilities are
 * Two main objectives
-  * Get results
-  * Retain people (better than others)
+    * Get results
+    * Retain people (better than others)
 * Important to have relationships which help you understand the two objectives
-  * What metrics am I going to be judged on
-  * What are the average retention rates
+    * What metrics am I going to be judged on
+    * What are the average retention rates
 * I wonder how this introduction fits with e.g. Goodhart's law, Campbell's law
-  * What about helping to define the right metrics (perhaps at a large company this isn't isn't your responsibility, but at a small company or start-up it could be)
+    * What about helping to define the right metrics (perhaps at a large company this isn't isn't your responsibility, but at a small company or start-up it could be)
 
 ## Chapter 2
 
 * An MBA probably won't teach you much about how to manage people
 * This book claims management is the same in a small or large company -- I remain to be convinced
 * Four PC explaining 75% of variance in results and retention are
-  1. Get to know your people
-  2. Communicate about performance
-  3. Ask for more
-  4. Push work down
+    1.  Get to know your people
+    2.  Communicate about performance
+    3.  Ask for more
+    4.  Push work down
 * Get to know your people
-  * Their strengths and weaknesses
-  * Often managers engage in typical mind fallacy: treat people as they would like to be treated, ignoring individual variation
-  * People are what deliver results, not systems or processes
-  * Acid test: do you know the names of their kids (might have to come up with something different if you're managing young people)
-  * The point is not to become friends with your directs
-  * Not like: *blah-blah-blah-I'm-getting-to-the-real-reason-I'm-here-to-talk-to-you-in-a-second-blah-blah-blah* (this seems like an easy mistake to make!)
-  * Take into account that there is a power differential
-  * You have to talk to them frequently about things that are important to them
-  * **The single most important thing you can do as a manager**
+    * Their strengths and weaknesses
+    * Often managers engage in typical mind fallacy: treat people as they would like to be treated, ignoring individual variation
+    * People are what deliver results, not systems or processes
+    * Acid test: do you know the names of their kids (might have to come up with something different if you're managing young people)
+    * The point is not to become friends with your directs
+    * Not like: *blah-blah-blah-I'm-getting-to-the-real-reason-I'm-here-to-talk-to-you-in-a-second-blah-blah-blah* (this seems like an easy mistake to make!)
+    * Take into account that there is a power differential
+    * You have to talk to them frequently about things that are important to them
+    * **The single most important thing you can do as a manager**
 * Communicate about performance
-  * To get better, you need feedback
-    * Got distracted here thinking about ["What is it you do to train that is comparable to a pianist practicing scales?"](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html)
-  * NFL: every single second of every single play (those who fight for every second with their coach are headed to the hall of fame, so they claim)
-    * Thinking about my own work: every single line of code, every single modelling choice, all aspects of a written document, presentation or talk
-  * Not only negative feedback!
+    * To get better, you need feedback
+        * Got distracted here thinking about ["What is it you do to train that is comparable to a pianist practicing scales?"](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html)
+    * NFL: every single second of every single play (those who fight for every second with their coach are headed to the hall of fame, so they claim)
+        * Thinking about my own work: every single line of code, every single modelling choice, all aspects of a written document, presentation or talk
+    * Not only negative feedback!
 * Asking for more performance
-  * Managers are supposed to create stress for their directs
-    * Distress and eustress
-    * Always better to grow output by increasing capacity of current staff than bringing on new staff
+    * Managers are supposed to create stress for their directs
+        * Distress and eustress
+        * Always better to grow output by increasing capacity of current staff than bringing on new staff
 * Push work down
-  * Time of directs costs less than time of managers
+    * Time of directs costs less than time of managers
 * How does this change in a remote work environment?
-  * It doesn't, but it does become **a lot** more difficult
-  
+    * It doesn't, but it does become **a lot** more difficult
+
 ## Chapter 3
 
 * What you do should be teachable
-  * This is something I've been thinking about more broadly: creating resources
-* Management is not a personality thing 
-  * Every effective person needs to be growing their skills and influencing more people [in the company]
+    * This is something I've been thinking about more broadly: creating resources
+* Management is not a personality thing
+    * Every effective person needs to be growing their skills and influencing more people \[in the company\]
 
-| Critical behaviour | Tool |
-|--------------------|------|
-| Get to know your people | One-on-ones |
-| Communicate about performance | Feedback |
-| Ask for more | Coaching |
-| Push down work | Delegation |
+| Critical behaviour            | Tool        |
+|-------------------------------|-------------|
+| Get to know your people       | One-on-ones |
+| Communicate about performance | Feedback    |
+| Ask for more                  | Coaching    |
+| Push down work                | Delegation  |
 
 ## Chapter 4
 
 * Know your people
 * How O3s with each of your directs
-  * Weekly
-  * 30 minutes
-  * Directs issues are primary
+    * Weekly
+    * 30 minutes
+    * Directs issues are primary
 * Scheduled
-  * Tells the direct that they matter
-  * Gives them time to prepare
-  * Fine to schedule then move the O3
+    * Tells the direct that they matter
+    * Gives them time to prepare
+    * Fine to schedule then move the O3
 * Weekly
-  * People usually work on a weekly basis
+    * People usually work on a weekly basis
 * 30 minutes
-  * Sweet spot
-  * Better to have a jam-packed meeting than relaxed
+    * Sweet spot
+    * Better to have a jam-packed meeting than relaxed
 * Just do O3s with directs, not with skips (people who report to your directs)
-  * Strong relationships with directs, then they have strong relationships with their directs
+    * Strong relationships with directs, then they have strong relationships with their directs
 * Take notes
-  * Makes you seem more engaged
-  * O3 should feel like a business meeting, rather than a personal meeting
-  * Use physical or online note-taking format?   
-    * Just talks about physical
-  * Distinctive way to capture deliverables
-  * What do HR or legal need?
+    * Makes you seem more engaged
+    * O3 should feel like a business meeting, rather than a personal meeting
+    * Use physical or online note-taking format?
+        * Just talks about physical
+    * Distinctive way to capture deliverables
+    * What do HR or legal need?
 * It should be in an office, but it could be in a semi-public space
 
 ## Chapter 6
 
 * Pushback against O3s
-  1. Micromanaging
-  2. Don't have time
-  3. We talk all the time
+    1.  Micromanaging
+    2.  Don't have time
+    3.  We talk all the time
 * Micromanaging
-  * Directs who don't want to be managed are a liability
-  * Asking for one meeting a week is not micromanaging (obviously)
+    * Directs who don't want to be managed are a liability
+    * Asking for one meeting a week is not micromanaging (obviously)
 * Don't have time
-  * You can announced that O3s won't start for some number of weeks e.g. 3
-  * If someone is busy O3s are even more important to make sure priorities are right
-  * 30 minutes a week is `r 100 * 30 / (8 * 60 * 5)`% of the working week
-  * Does anyone seriously have this objection?
-  * Recommend avoiding using "role power" as much as you can
-    * Role power
-    * Relationship power
-    * Expertise power
+    * You can announced that O3s won't start for some number of weeks e.g. 3
+    * If someone is busy O3s are even more important to make sure priorities are right
+    * 30 minutes a week is `r 100 * 30 / (8 * 60 * 5)`% of the working week
+    * Does anyone seriously have this objection?
+    * Recommend avoiding using "role power" as much as you can
+        * Role power
+        * Relationship power
+        * Expertise power
 * We talk all the time
-  * Have an agenda
-    * Directs go first
-    * Start with the same first question
-      * How's it going?
-      * How are you?
-      * How are things?
-      * Your agenda?
-    * How to get directs to make the most of the O3? Have an agenda etc.
-    * 15, 15 agenda
-      * Directs usually talk for longer
-    * Don't be an agenda fascist
-    * Uncommunicative directs are more challenging than verbose directs
-    * Effectiveness of hand-written vs typed notes
-      * What about a Google doc? Research on this? TODO: find examples of O3 templates online
+    * Have an agenda
+        * Directs go first
+        * Start with the same first question
+            * How's it going?
+            * How are you?
+            * How are things?
+            * Your agenda?
+        * How to get directs to make the most of the O3? Have an agenda etc.
+        * 15, 15 agenda
+            * Directs usually talk for longer
+        * Don't be an agenda fascist
+        * Uncommunicative directs are more challenging than verbose directs
+        * Effectiveness of hand-written vs typed notes
+            * What about a Google doc? Research on this? TODO: find examples of O3 templates online

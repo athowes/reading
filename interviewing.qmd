@@ -3,9 +3,7 @@ title: "Running interviews"
 format: html
 ---
 
-## How I build and run behavioral interviews (Ben Kuhn)
-
-https://www.benkuhn.net/behavioral/
+## [How I build and run behavioral interviews (Ben Kuhn)](https://www.benkuhn.net/behavioral/)
 
 * Hiring is important, spend a few hours on an interview you're going to give
 * Write a rubric. What answer would distinguish a good candidate from a great candidate?
