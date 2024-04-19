@@ -126,3 +126,25 @@ Notes on the book ["The Effective Manager"](https://www.manager-tools.com/produc
         * Uncommunicative directs are more challenging than verbose directs
         * Effectiveness of hand-written vs typed notes
             * What about a Google doc? Research on this? TODO: find examples of O3 templates online
+
+## Chapter 7
+
+* Negative performance communications are hard for many reasons, but these reasons are not your fault
+* When the typical manager gives feedback, they focus on what happened in the past
+* No one intends to make mistakes, so of course people have good reasons they did what they did
+* Challenge someone who fears you more than they trust you and of course you'll get pushback
+* Purpose of performance communications is **to encourage effective future behaviour**
+* The model
+  1. Ask
+  2. Describe the behaviour
+  3. Describe the impact of the behaviour
+  4. Encourage effective future behaviour
+* Ask
+  * Is now a good time to share some feedback?
+  * Also, always ask to give feedback, not only when it's negative
+  * Environment with no feedback: "wicked" learning environment
+* Describe the behaviour
+  * The behaviour, not the underlying roots of the behaviour
+  * Behaviour is words, facial expressions, body language, work product (quality, quantity, accuracy, timeliness, documentation)
+
+
