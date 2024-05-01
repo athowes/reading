@@ -1,6 +1,5 @@
 ---
 title: "Running interviews"
-format: html
 ---
 
 ## [How I build and run behavioral interviews (Ben Kuhn)](https://www.benkuhn.net/behavioral/)

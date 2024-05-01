@@ -1,6 +1,5 @@
 ---
 title: "The Research Leader’s Playbook"
-format: html
 ---
 
 https://spec.tech/library/research-leaders-playbook
