@@ -1,0 +1,66 @@
+---
+title: "Virology (2024, Columbia Universtiy)"
+---
+
+Lectures of Vincent Racaniello
+
+## Lecture 1
+
+* Viruses are everywhere
+* Viral genomes are a part of our own genetic material
+* The numbers of viruses on Earth is staggering
+* The vast majority of viruses that infect us have little to no impact on our health or wellbeing
+  * Just passing through e.g. pepper mild mottle virus
+  * Beneficial viruses
+  * We have an amazing immune system
+* Viruses shape host populations and vice-versa
+* Virology is an integrative science
+* Lots of people who don't know what they are talking about weigh in on virology -- hopefully not me in future!
+* Definition: an infectious, obligate intracellular parasite comprising genetic material (DNA or RNA), surrounded by a protein coat, sometimes a membrane
+* When we study viruses, we must also learn something about the host too
+* Viruses have two phases: virion, infected cell
+* ...are passive agents! Do not anthropomorphise
+* ...are very small! (There are also "giant" viruses)
+* ...replicate by assembly of pre-formed components into many particles
+* Virus classification by nucleic acid
+  * Kingdon, phylum, class, ...
+* Barely sampling anything out there! Tonnes of viruses to discover
+* Two key facts
+  * All viral genomes are obligate molecular parasites that can only function after they replicate in a cell
+  * All viruses must make mRNA that can be translated by host ribosomes
+
+## Lecture 2
+
+* Virologists like to divide the infectious cycle up into steps but there are no real clear boundaries
+* Cells can be
+  * Susceptible: functional receptor for given virus
+  * Resistant: no receptor
+  * Permissive: capacity to replicate virus
+  * Must be susceptible and permissive to take up virus particle and replicate it
+* "Passage" or "passing" can select for properties (evolution)
+* Growing cells in culture! Nobel prize, 1954
+* "Monolayer": layer of one cell thickness (of cells)
+* Cell line: live forever
+* Cytopathic effects: structural changes in host cells that are caused by viral invasion.
+  * Formation of syncytia
+* How many viruses in a sample?
+  * Measure infectivity
+  * Measure physical (virus particles and their components)
+* Plaque assay (plaque forming units [PFU] per ml). Nobel prize, 1975
+  * TNTC (too numerous to count)
+  * Getting the right number of dilutions
+  * One-hit and two-hit kinetics
+* Not all virus particles are infectious!
+  * Particle / PFU ratio can be 1-10,000
+  * Damaged particles, mutations, complexity of infectious cycle
+  * Complicates study of viruses!
+* One-step growth cycle
+  * Adsorb, dilute culture, sample, assay
+* How many viruses each cell gets is approximately Poisson
+  * MOI of 10 then you'd get a single burst of virus release: every cell infected in sync
+* Physical methods for detecting viruses include hemagglutination, serological techniques, polymerase chain reaction, and high-throughput sequencing
+  * PCR is not the same as infectious virus. PCR positivity lasts much longer than infectiousness!
+
+## Lecture 3
+
+* The viral nucleic acid genome is the genetic code
