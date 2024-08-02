@@ -8,7 +8,7 @@ title: "Management mistakes"
 2. Splitting attention (suggests only coding if it's non-critical)
 3. Over avoiding micromanaging. "Do you feel like you know how to do this?" -- this resonates for me as a report
 4. Procrastinating hard questions e.g. giving tough feedback or letting people go
-5.Deferring maintenance. You can't always be "busy". Slack by default
+5. Deferring maintenance. You can't always be "busy". Slack by default
 
 ## [Tech Lead Management roles are a trap](https://lethain.com/tech-lead-managers/)
 

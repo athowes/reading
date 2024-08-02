@@ -64,3 +64,13 @@ Lectures of Vincent Racaniello
 ## Lecture 3
 
 * The viral nucleic acid genome is the genetic code
+* Viral genomes must make mRNA that can be read by host ribosomes
+  * All known viruses follow this rule
+* Baltimore system: a way to classify viruses based on their manner of mRNA synthesis
+  * Group I: double-stranded DNA
+  * Group II: single-stranded DNA
+  * Group III: double-stranded RNA
+  * Group IV: single-stranded RNA
+  * Group V:
+  * Group VI:
+  * Group VII:
