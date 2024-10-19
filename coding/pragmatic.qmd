@@ -1,0 +1,17 @@
+---
+title: "The Pragmatic Progammer"
+format: html
+---
+
+Notes on the book ["The Pragmatic Progammer"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/).
+
+# Chapter 1
+
+* Software entropy (see also software rot, technical debt)
+* Broken windows theory: don't live with them
+* Stone soup: show people a glimpse of the future and get them to rally behind you
+* Involve users in the trade-off on what is good enough. Part of the specification
+* Your knowledge portfolio
+  * Invest as a habit: `tutorial` and `reading`
+  * Diversify
+  * Manage risks
