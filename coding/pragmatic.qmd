@@ -15,3 +15,18 @@ Notes on the book ["The Pragmatic Progammer"](https://pragprog.com/titles/tpp20/
   * Invest as a habit: `tutorial` and `reading`
   * Diversify
   * Manage risks
+  
+# Chapter 2
+
+* Good design is easier to change than bad design
+* The ETC principle (Easier to Change): everything (?) is a special case of this
+  * Well I'd think that good design could also be easier to write
+* DRY (Don't Repeat Yourself)
+  * It's about the duplication of knowledge, intent, not only code
+  * Not all code duplication is knowledge duplication
+  * Duplication across documentation and code
+* Representational duplication
+* Inter-developer duplication
+* Orthogonality
+  * Changes in one don't impact the other
+  * Eliminate effects between unrelated things
