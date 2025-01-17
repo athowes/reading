@@ -1,0 +1,49 @@
+---
+title: "Building in-house capabilities in health agencies and outsourcing to academia or industry:
+Considerations for effective infectious disease modelling"
+---
+
+Notes on: [https://www.sciencedirect.com/science/article/pii/S175543652400063X](https://www.sciencedirect.com/science/article/pii/S175543652400063X)
+
+## Operational planning vs scientific research to inform outbreak control
+
+* Distinguish between analysis which is routinely required to inform real-time operational activities vs. analysis that involves deeper scientific research to guide longer-term control strategies
+* Example: dashboards managed by public health agencies, complex multi-variant scenario models led by academic groups
+
+## Frequency and timescale of outbreak-related tasks
+
+* Higher frequency tasks are more in-house
+
+## Funding timescales and sustainability
+
+* Academic funding typically 1-2 years
+* Career progression in academia depends on tangible outputs (papers)
+* ID research in academia tends to focus on things that can produce papers
+* During a pandemic, there is a lot of work to be done that isn't academically novel
+* If academic career progression can't adapt then this work is best done in-house
+* Ideally work done in-house could be reviewed by academics for QA
+  * CODECHECK
+  * Royal Society RAMP
+* Translation of tools from academia to operation
+* Ongoing challenge in academia and government (in part due to other career paths available to quantitative researchers)
+
+## Resource availability and scalability beyond funding
+
+* You can't scale up epidemiological knowledge when a pandemic occurs
+* Need to depend on other personnel who have relevant skills
+
+## More complexity benefits from more perspectives
+
+* Ensembles good
+* Not relying on one model good
+* "Different viewpoints" -- expected this to refer to variation in field rather than just different statistical modelling groups from the same philosophical background
+* Simpler questions best done in-house
+
+## Data sensitivities and governance affect the type of modelling studies to outsource
+
+* Individual-level data, then perhaps best done in-house
+* Some initiatives to work on sensitive data while preserving patient privacy
+
+## Refinement of these considerations
+
+* ...
