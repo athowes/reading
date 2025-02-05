@@ -1,0 +1,63 @@
+---
+title: "MLOps"
+format: html
+---
+
+Notes on [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081336).
+
+## Introduction
+
+* Many ML projects fail
+* Research community focuses on prototyping, not deployment
+* Often ML workflows are managed manually
+* Research question: what is MLOps?
+
+## Foundations of DevOps
+
+* Goal is to eliminate gap between development and operations
+* Promotes automation through CI/CD
+* Types of tool
+  * Collaboration and knowledge sharing (e.g. Slack)
+  * Build Process (e.g. Mavern)
+  * Continuous Integration (e.g. Jenkins)
+  * Deployment (e.g. Docker)
+  * Monitoring and logging (e.g. Prometheus)
+* Cloud environments are increasingly equipped with these tools
+
+## Method and results
+
+* Literature review, tool review, interview study
+* Principles
+  * CI/CD automation
+  * Workflow orchestration: coordination of ML workflow according to a DAG
+  * Reproducibility
+  * Versioning
+  * Collaboration
+  * Continuous ML training and evaluation (CT)
+  * ML metadata tracking and logging
+  * Continuous monitoring
+  * Feedback loops
+* Technical components
+  * CI/CD components (for me so far this is GitHub actions)
+  * Source code repository (for me this is GitHub)
+  * Workflow orchestration (gap here!)
+    * Airflow, Kubeflow
+    * Could try using CI/CD tools here?
+    * What about e.g. Make, targets (in R)
+  * Feature store system
+    * Where does the data come from? On premises? In cloud?
+    * Distributed file systems or databases
+  * Model training infrastructure
+    * CPUs, RAM, GPUs
+    * Local (not scalable)
+    * Cloud (better)
+  * Model registry
+    * Stores trained models and metadata
+    * MLFlow, Azure ML Model Registry
+    * Or just use Azure storage?
+  * ML Metadata store
+    * How does this relate to model registry?
+  * Model serving component
+  * Monitoring component
+* Roles
+  * Business stakeholder: ...
