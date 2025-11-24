@@ -1,0 +1,51 @@
+---
+title: "Identities with Azure"
+format: html
+---
+
+## What's an identity
+
+* User, resource, or application that can be authenticated and authorized to interact with Azure resources
+* Common identities
+  1. Service Principal: external process accessing Azure
+  2. User Identity: human user accessing Azure portal
+  3. Managed Identity: resource within Azure accessing Azure
+  4. Federated Identity: example is GitHub Actions accessing Azure
+  
+## User Identity
+
+* Associated to a person
+* Authenticated via username/password, MFA
+* Calling `az login` with CLI opens browser for user to authenticate
+* Users are assigned to Group
+* Typically have broad permissions
+
+## Managed Identity
+
+* Associated to an Azure resource
+  * Batch Node, Container App, VM
+* Authentication handled by Azure
+* `az login --identity` to authenticate from resource
+* Using `DefaultAzureCredential` in Azure SDKs will automatically use Managed Identity when running in Azure
+* Can also be assigned to a Group
+* Typically have narrow permissions scoped to resource needs
+
+## Service Principal
+
+* Associated to an Application (rather than person or Azure resource)
+* Can authenticate with client secret or certificate (both expire)
+* Useful for accessing Azure resources from external services (e.g. CI/CD)
+* Should be used for a single service/workload to limit scope of permissions
+
+## Federated Identity
+
+* Externally-provided identity that can be associated with an Azure-managed identity like a Service Principal
+* Can be used with GitHub Actions
+* GitHub assigns an identity token to a workflow in `GITHUB_TOKEN`
+* Within Azure, a SP registers to GH identity provided and associates it to a SP
+
+# Follow-up
+
+## Misc.
+
+* REST API: interface for interacting with a service over HTTP using representational state transfer (REST). A structured way for clients and servers to exchange data
