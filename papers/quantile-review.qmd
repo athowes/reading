@@ -1,0 +1,29 @@
+---
+title: "Model Diagnostics and Forecast Evaluation for Quantiles"
+format: html
+---
+
+Notes on the review paper [Model Diagnostics and Forecast Evaluation for Quantiles](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-032921-020240;jsessionid=PWEDyroKo5poAoibgbqtjF7E68O0gS-7VH1IUMOG.annurevlive-10-241-10-91).
+
+* "Diagnostics" refer to in-sample goodness of fit
+* "Evaluation" refer to out-of-sample goodness of fit
+* $S: D \times D \to [0, \inf)$ is a scoring function with $x \in D$ the forecast and $y \in D$ the outcome
+* $Q_\alpha(F) = \{x \in D: F(x-) \leq \alpha \leq F(x)\}$ is the set of $\alpha$-quantiles of a CDF $F$ on $D$
+* $S$ is consistent for the $\alpha$-quantile if for any CDF $F$ on $D$ and any $t \in Q_\alpha(F) \subseteq D$
+$$
+\mathbb{E}_F[S(t,Y)] \leq \mathbb{E}_F[S(x,Y)] \quad \text{for all } x \in D.
+$$
+  * Relates to incentivising honest reporting of quantile forecasts
+  * The score for the true quantile should be lower than or equal to that of any other forecast
+* Scoring function is consistent if and only if it is in generalized piecewise linear (GPL)
+$$
+S(x, y) = (\mathbb{1}(y < x) - \alpha)(g(x) - g(y)).
+$$
+  * $g: D \to \mathbb{R}$ is a non-decreasing function
+  * $g(x) = x$ gives the pinball loss
+* A forecast method is preferable over another in terms of any consistent scoring function if and only if it is preferable in terms of the elementary scoring functions
+$$
+S(x, y) = \int S_{\alpha, \theta}(x, y) dH(\theta).
+$$
+  * $S_{\alpha, \theta}(x, y) = (\mathbb{1}(y < x) - \alpha)(\mathbb{1}(\theta < x) - \mathbb{1}(\theta < y))$
+* Murphy diagram is a graphical tool which shows the mean elementary score versus the threshold parameter
