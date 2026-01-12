@@ -1,0 +1,12 @@
+---
+title: "Quantifying uncertainty around model scores"
+format: html
+---
+
+* Forecast scores for multiple models
+* There is a `get_pairwise_comparisons()` function in `scoringutils`
+  * Uses permutation tests for score comparisons
+  * Citation to "Predictive assessment of a non-linear random effects model for multivariate time series of infectious disease counts"
+  * I think that this involves sampling the scores randomly between models and then calculating the difference in means. The p-value is the proportion of times that the absolute difference in means is greater than or equal to the observed absolute difference in means
+* The Diebold-Mariano test is for the null hypothesis of no mean difference between sets of scores
+  * Compares forecasts, not models
