@@ -1,0 +1,9 @@
+---
+title: "The relational model"
+format: html
+---
+
+* Relational model (RM) and relational databases
+* Database normalisation
+* Fact table
+* Dimension table
